@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: AutoStartCombatoLog
+## Notes: Start combat log when entering raid
+## Author: Vacalogia@Lone-Wolf
+## Version: 1.0.0
+## RequiredDeps: Ace3
+
+auto-enable-combat-log.lua
